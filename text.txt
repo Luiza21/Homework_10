@@ -1,3 +1,9 @@
 1st commit
 2nd commit master
-
+1st commit develop
+2nd commit develop
+1st commit feature 1
+2nd commit feature 1
+3rd commit develop
+1st commit feature_2
+realease 1st commit
